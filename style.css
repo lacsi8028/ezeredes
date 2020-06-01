@@ -33,7 +33,7 @@ font-size:10pt;
 font-weight:bold;
 text-decoration:none;
 padding:7px 10px 7px 10px;
-color:#ffffff;
+color:#b7e8ff;
 }
 
 #nav UL LI A:hover, #nav UL LI A:active {
@@ -41,12 +41,12 @@ font-size:10pt;
 font-weight:bold;
 text-decoration:none;
 padding:7px 10px 7px 10px;
-background-color:#c6a648;
-color:#000000;
+background-color:#10508b;
+color: #ffffff;
 }
 
 #wrapper {
-    background-color: #f4ebe2;
+    background-color: #d3f3ff;
     float: left;
     overflow: hidden;
     height: 1200px;
@@ -87,7 +87,7 @@ color:#000000;
 }
 
 #product {
-    background-color: greenyellow;
+    background-color: #57d2c6;
     float: left;
     overflow: hidden;
     height: 1000px;
