@@ -127,19 +127,27 @@ color: #ffffff;
 
 #footer {
     display: flex;
-    float: left;
+    justify-content: space-between;
     width: 100%;
     height: 100px;
     background-color: white;
     }
 
 #fb img {
-    margin: 25px 25px;
+    margin: 25px 50px;
     height: 50px;
 }
 
+#top a {
+    text-decoration: none;
+    color: #23226b; 
+    margin: 25px; 
+    font-size: 11px;
+    font-family: 'Lexend Tera', sans-serif; 
+}
+
 #copysign {
-    margin: 45px 40px;
+    margin: 30px;
     font-size: 9px;
     font-family: 'Lexend Tera', sans-serif;
 }
