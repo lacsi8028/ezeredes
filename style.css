@@ -58,7 +58,6 @@ color: #ffffff;
     background-color: #d3f3ff;
     float: left;
     overflow: hidden;
-    height: 850px;
     width: 100%;
     }
 
@@ -93,7 +92,7 @@ color: #ffffff;
     }
 
 #top_rightside img {
-    margin: 6% 0 0 0;
+    margin: 36px 0 0 0;
     width: 600px;
     
 }
