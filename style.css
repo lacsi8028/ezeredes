@@ -265,13 +265,13 @@ fieldset {
     }
       
   #wrapper h2 {
-      margin: 70px 15% 0;
+      margin: 5% 15% 0;
       font-family: 'Inria Serif', serif;
       font-size: 45px;
   }
 
   #list h3 {
-    margin: 10% 25% 10%;
+    margin: 12% 25% 10%;
     width: 100%;
     display: flex;
     justify-content: left;
@@ -280,7 +280,7 @@ fieldset {
  }
 
  #WhoWeAre {
-    margin: 80px auto;
+    margin: 5% auto;
     width: 500px;
  }
 
