@@ -142,6 +142,14 @@ color: #ffffff;
     height: 40px;
 }
 
+#email {
+    margin: 30px;
+    display: block;
+    font-style: italic;
+    font-family: 'Lexend Tera', sans-serif;
+    color: black;
+    }
+
 #top a {
     text-decoration: none;
     color: #23226b; 
