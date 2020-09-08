@@ -112,7 +112,7 @@ color: #ffffff;
 
 #product_name {
     margin: 80px 10px;
-    text-align: left;
+    text-align: justify;
     width: 450px;
     }
 
@@ -287,7 +287,7 @@ fieldset {
  }
 
  #WhoWeAre p {
-    text-align: left;
+    text-align: justify;
     color: #23226b;
     font-family: 'Inria Serif', serif;
     font-size: 20px;
