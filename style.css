@@ -99,7 +99,21 @@ color: #ffffff;
     margin: 25px 2% 20px;
     max-width: 400px;
     text-align: justify;
-    font-size: 12px;
+    font-size: 14px;
+    }
+
+#top_rightside ul {
+    margin: 5px -30px;
+    text-align: left;
+    max-width: 420px;
+    font-size: 14px;
+    }
+
+#top_rightside li {
+    margin: 5px 20px;
+    text-align: left;
+    max-width: 420px;
+    font-size: 14px;
     }
 
 #product {
@@ -114,6 +128,16 @@ color: #ffffff;
     justify-content: space-between;
     height: 400px;
     margin: 30px;
+    }
+
+#product A:link, #product A:visited {
+    text-decoration:none;
+    color: #23226b;
+    }
+    
+#product A:hover, #product A:active {
+    text-decoration:none;
+    color: #ffffff;
     }
 
 #product_name {
@@ -294,6 +318,16 @@ fieldset {
     align-items: left;
     border-bottom: 1px solid grey;
  }
+
+ #list A:link, #list A:visited {
+    text-decoration:none;
+    color: #23226b;
+    }
+    
+#list A:hover, #list A:active {
+    text-decoration:none;
+    color: #ffffff;
+    }
 
  #WhoWeAre {
     margin: 5% auto;
