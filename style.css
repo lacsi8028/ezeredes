@@ -93,8 +93,14 @@ color: #ffffff;
 #top_rightside img {
     margin: 5% 0 0 0;
     width: 600px;
-    
-}
+    }
+
+#top_rightside p {
+    margin: 25px 2% 20px;
+    max-width: 400px;
+    text-align: justify;
+    font-size: 12px;
+    }
 
 #product {
     background-color: #57d2c6;
