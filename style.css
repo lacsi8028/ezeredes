@@ -99,21 +99,24 @@ color: #ffffff;
     margin: 25px 2% 20px;
     max-width: 400px;
     text-align: justify;
-    font-size: 14px;
+    font-family: 'Inria Serif', serif;
+    font-size: 18px;
     }
 
 #top_rightside ul {
     margin: 5px -30px;
     text-align: left;
     max-width: 420px;
-    font-size: 14px;
+    font-family: 'Inria Serif', serif;
+    font-size: 18px;
     }
 
 #top_rightside li {
     margin: 5px 20px;
     text-align: left;
     max-width: 420px;
-    font-size: 14px;
+    font-family: 'Inria Serif', serif;
+    font-size: 18px;
     }
 
 #product {
