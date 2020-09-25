@@ -61,6 +61,12 @@ color: #ffffff;
     width: 100%;
     }
 
+#wrapper h2 {
+    margin: 5% 15% 0;
+    font-family: 'Inria Serif', serif;
+    font-size: 45px;
+    }
+
 #top_leftside {
     position: relative;
     flex-grow: 1;
@@ -304,10 +310,9 @@ fieldset {
     height: 800px;
     display: flex;
     flex-direction: column;
-
     }
-      
-  #wrapper h2 {
+    
+#wrapper h2 {
       margin: 5% 15% 0;
       font-family: 'Inria Serif', serif;
       font-size: 45px;
@@ -332,14 +337,32 @@ fieldset {
     color: #ffffff;
     }
 
- #WhoWeAre {
+#WhoWeAre {
     margin: 5% auto;
     width: 500px;
  }
 
- #WhoWeAre p {
+#WhoWeAre p {
     text-align: justify;
     color: #23226b;
     font-family: 'Inria Serif', serif;
     font-size: 20px;
+    }
+
+#WhoWeAre ul {
+    margin: 5px -40px;
+    text-align: justify;
+    color: #23226b;
+    font-family: 'Inria Serif', serif;
+    font-size: 20px;
+    max-width: 520px;
+    }
+
+#WhoWeAre li {
+    margin: 5px 20px;
+    text-align: justify;
+    color: #23226b;
+    font-family: 'Inria Serif', serif;
+    font-size: 20px;
+    max-width: 520px;
     }
